@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661217345869",
+    "project_id": "isiapp-2ac53",
+    "storage_bucket": "isiapp-2ac53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661217345869:android:4ab8d618d42aff6f88b704",
+        "android_client_info": {
+          "package_name": "com.example.isi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1KLaOrnQqCB7dwd-61bNQkK4tH9K4KUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
